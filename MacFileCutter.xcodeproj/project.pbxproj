@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		4B64793F2E3EA41D005B64C0 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 4B64793D2E3EA416005B64C0 /* Readme.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		4B0AF1962E3AD03600C0F869 /* MacFileCutter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacFileCutter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B64793D2E3EA416005B64C0 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				4B0AF1982E3AD03600C0F869 /* MacFileCutter */,
 				4B0AF1972E3AD03600C0F869 /* Products */,
+				4B64793D2E3EA416005B64C0 /* Readme.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B64793F2E3EA41D005B64C0 /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
